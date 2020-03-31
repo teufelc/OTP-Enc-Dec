@@ -1,6 +1,5 @@
 # OTP Encryption and Decryption
 Christopher Teufel
-
 teufelc@oregonstate.edu
 
 
