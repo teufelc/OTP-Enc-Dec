@@ -23,7 +23,7 @@ otp_dec.c sends a cipher file as well as a key to otp_dec_d.
 otp_dec_d decrypts the file and sends the plaintext file to otp_dec.
 otp_dec recieves the plaintext and prints to stdout.
 
-utility.c and utility.h are used for utility functions.
+utility.c and utility.h contain utility functions.
 
 
 INSTRUCTIONS:
